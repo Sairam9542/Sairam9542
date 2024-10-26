@@ -3,4 +3,4 @@
 🌱 I’m currently learning Java Full Stack Course
 💞️ I’m looking to work on Frontend and Backend development
 📫 How to reach me at sairamganapavarapu@gmail.com
-😄 Pronouns: As you wish
+😄 Pronouns: He/Him
