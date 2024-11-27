@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sairamganapava3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sairamganapava3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sairam ganapavarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairam ganapavarapu" height="30" width="40" /></a>
-<a href="https://fb.com/ganapavarapu p n venkata sairam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganapavarapu p n venkata sairam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sairamganapavrapu96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairam ganapavarapu" height="30" width="40" /></a>
+<a href="https://fb.com/sairam.ganapavarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganapavarapu p n venkata sairam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
