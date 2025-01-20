@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sairamganapavarapu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nmDTeagkP90mltYy5GSMrnTjDhGzWad8/view?usp=sharing](https://drive.google.com/file/d/14U2Mf_f62K_2glZn1jdllRm5gAeEQ8xU/view?usp=drive_link)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1kaG4q9WJ8TxqTNaeexv4-uy7BOY91Uu_/view?usp=drivesdk)
 
 - ⚡ Fun fact **A GitHub repo is like a time machine. You can go back and see what you coded on that all-nighter months ago.**
 
