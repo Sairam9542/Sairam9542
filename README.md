@@ -8,7 +8,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=sairam9542&icon=5&color=0)](https://visitcount.itsvg.in)
 
-
+## My Skills
 - 🔭 I’m had worked on [Full Stack Applications](https://github.com/Sairam9542?tab=repositories)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in java.**
