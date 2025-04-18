@@ -2,7 +2,7 @@
 <h3 align="center">Entry-Level Graduate | Passionate About Building Scalable Applications </h3>
 
 ## AI-CHAT BOT
-- Experince the AI-ChatBot Which gives the Complete data of mine. [Link🤖](https://chat-bot-sample.netlify.app/)
+- Experience the AI-ChatBot Which gives the Complete data of mine. [Link🤖](https://chat-bot-sample.netlify.app/)
     
   
 
